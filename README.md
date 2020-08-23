@@ -16,7 +16,7 @@ Compile options:
 
  -Wall -> Compiler produces warning messages (all in this case). (Use with -O)
  
- -O -> Combine with -Wall for maximum effect.
+ -O -> Combine with -Wall for maximum effect. (Uppercase O)
  
  -pedantic -> Issue all warnings required by C standard.
  
@@ -24,7 +24,7 @@ Compile options:
  
  -std=c18 -> Which version compiler should use
  
- -o -> name of output file. (a.out) is default.
+ -o -> name of output file. (a.out) is default. (Lowerecase o)
 
 
  ### Example:
