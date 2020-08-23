@@ -25,4 +25,4 @@ Compile options:
  
  gcc -O -Wall -pedantic -ansi -std=c18 -o fname fname.c
 
- -> Compiled file is fname, just type ./fname to run copiled program in Linux.
+ -> Compiled file is fname, just type ./fname to run compiled program in Linux.
