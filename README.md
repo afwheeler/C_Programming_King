@@ -37,6 +37,3 @@ Compile options:
 
  -> Then run ./fname or ./a.out (if file name for compiled program not specified), 
     again in terminal in vscode to run compiled program.
-
-xxxxxxxxxxxxxxxx
-yyyyyyyyyyyyyyyyyyy
