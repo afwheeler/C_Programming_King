@@ -3,7 +3,7 @@ Solutions to exercises in C Programming K.N. King 2nd Edition
 
 Second edition published 2008.
 
-## Compiling C program in VS Code terminal
+## Compiling C program in VS Code terminal (Linux and GCC)
 
 To compile in VS Code terminal: gcc -O -Wall -std=c18 filename.c
 
@@ -25,4 +25,4 @@ Compile options:
  
  gcc -O -Wall -pedantic -ansi -std=c18 -o fname fname.c
 
- -> Compiled file is fname, just type ./fname to run in Linux.
+ -> Compiled file is fname, just type ./fname to run copiled program in Linux.
