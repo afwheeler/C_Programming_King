@@ -3,7 +3,7 @@ Solutions to exercises in C Programming K.N. King 2nd Edition
 
 Second edition published 2008.
 
-To compile in VS Code terminal: - gcc -O -Wall -std=c18 filename.c
+To compile in VS Code terminal: gcc -O -Wall -std=c18 filename.c
 
 Compile options:
 
