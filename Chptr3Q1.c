@@ -1,4 +1,7 @@
-/* User input of date, print out in different format.*/
+/* User input of date, print out in different format.
+*   Andrew Wheeler
+*   August 31, 2020
+*/
 
 #include <stdio.h>
 
