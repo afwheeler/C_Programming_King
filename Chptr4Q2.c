@@ -13,7 +13,7 @@ int main(int argc, char const *argv[])
     printf("\nPlease enter a three digit number:\t");
     scanf("%3d", &num);
 
-    printf("The number reversed: %d%d%d\n", num%10, num/10 - (num/100*10), num/100);
-    
+    printf("The number reversed: %d%d%d\n", num % 10, num / 10 - (num / 100 * 10), num / 100);
+
     return 0;
 }
